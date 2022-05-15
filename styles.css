@@ -1,5 +1,9 @@
+img {
+    height: 300px;
+    width: 300px;
+}
 
-
-p {
+p, ol, ul {
     width: 600px;
 }
+
